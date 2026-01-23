@@ -7,7 +7,7 @@
 # Intéret dans le multimédia
 J’apprécie particulièrement l’animation 2D et la manière dont elle permet de créer des univers immersifs. Je trouve fascinant que des personnages fictifs puissent transmettre des émotions aussi fortes. Je préfère les œuvres qui impliquent activement le public, comme Gravity Falls, qui regorge de messages cachés et propose des énigmes à la fin de chaque épisode. La chasse au trésor qu’ils ont menée était une idée brillante.
 
-![portrait](Gravity Falls.webp)
+![Gravity Falls](https://github.com/user-attachments/assets/9392123c-fa28-4ba1-b5a8-61bc0c3de2e8)
 
 À consulter ici:
 <https://maydaygirl-save-our-ships.tumblr.com/post/148405763413/cipher-hunt-complete-summary>
