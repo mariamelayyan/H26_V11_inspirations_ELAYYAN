@@ -1,3 +1,4 @@
 # Mariam Elayyan
 
-![portrait](https://github.com/user-attachments/assets/78240bd6-eb3e-450e-9b96-b854e74b6ac2)
+![portrait](https://github.com/user-attachments/assets/b3ecc7ad-a8f6-45f8-af87-3b1ad06754c9)
+
