@@ -1,6 +1,6 @@
 # Mariam Elayyan
 
-![portrait](./portrait/portrait.png)
+![portrait](portrait/portrait.png)
 
 >Moi transformé en bande dessiné.
 
