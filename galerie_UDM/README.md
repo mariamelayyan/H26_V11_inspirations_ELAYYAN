@@ -1,1 +1,1 @@
-# Exposition du galerie de l'universtité de montréal
+# Exposition du galerie de l'Universtité de Montréal
