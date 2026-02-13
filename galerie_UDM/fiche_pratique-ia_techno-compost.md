@@ -19,11 +19,11 @@ C’est dans un **espace latent**, comparable à un jardin, que les images « po
 ## Mise en espace
 ![ensemble de l'oeuvre](media/ensemble_oeuvre.jpg)
 
-| Emplacement | Contenu |
-|-------------|---------|
-| Mur gauche  | Projection d’exemples de résultats du processus |
-| Mur droit   | Mosaïque d’images montrant des échantillons du processus: certaines proches du bruit visuel, d’autres plus structurées |
-| Centre      | Expérience interactive en réalité virtuelle (interactions avec les images) |
+| Emplacement     | Contenu |
+|-----------------|---------|
+| **Mur gauche**  | Projection d’exemples de résultats du processus |
+| **Mur droit**   | Mosaïque d’images montrant des échantillons du processus: certaines proches du bruit visuel, d’autres plus structurées |
+| **Centre**      | Expérience interactive en réalité virtuelle (interactions avec les images) |
 
 ---
 
