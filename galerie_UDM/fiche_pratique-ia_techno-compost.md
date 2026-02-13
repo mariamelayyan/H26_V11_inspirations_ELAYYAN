@@ -47,9 +47,12 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 ---
 
 ## Expérience vécue
-1. Le médiateur de l’exposition présente et explique chaque élément de chaque œuvre
-2. Le visiteur fait le tour de chaque œuvre et prend des photos
-3. Le visiteur expérimente les dispositifs immersifs proposés
+1. Le visiteur accroche son manteau et dépose ses effets personnels.
+2. Le visiteur s’assoit sur le canapé et écoute les instructions du médiateur.
+3. Le médiateur de l’exposition présente et explique chaque élément de chaque œuvre.
+4. Le visiteur fait le tour des œuvres et prend des photos.
+5. Le visiteur expérimente les dispositifs immersifs proposés
+6. Le visiteur récupère ses effets personnels et quitte l’établissement.
 
 ---
 
