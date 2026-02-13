@@ -55,10 +55,11 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 
 ## Réflexion
 **Ce qui m’a plu / idées inspirantes :**  
-- …  
+- Utilisation de l'IA pour produire une œuvre créative et organique, combinant nature et technologie.  
+- La chaise unique, qui s’intègre parfaitement au concept et à l’esthétique générale de l’œuvre.
 
-**Aspects que je ne souhaite pas retenir :**  
-- …  
+**Aspects que je ne souhaite pas retenir / ferais autrement :**  
+- Difficulté à manipuler certains éléments en réalité virtuelle, comme récupérer les images qui tombent.
 
 ---
 
@@ -66,11 +67,12 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 - [Biographie des artistes](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)<
 
 **Cartel**  
-- [Description de l'oeuvre](media/cartel.jpg)]
+- [Description de l'oeuvre](media/cartel.jpg)
 - [Collaborateurs](media/cartel_collaborateur.jpg)
 - [Matériels](media/cartel_materiel.jpg)
 
 **Composants de l'oeuvre**  
-  
-
+- [Ensemble de l'oeuvre](media/ensemble_oeuvre.jpg)
+- [Quelques échantillon du muraille](media/muraille_composant.jpg)
+- [Projection](media/projection.jpg)
 
