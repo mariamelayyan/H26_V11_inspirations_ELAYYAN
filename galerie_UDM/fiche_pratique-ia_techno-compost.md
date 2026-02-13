@@ -29,13 +29,17 @@ C’est dans un **espace latent**, comparable à un jardin, que les images « po
 
 ## Composantes et techniques
 ![Quelques échantillons du muraille](media/muraille_composant.jpg)
-Quelques échantillons du processus sur muraille
-[Projection](media/projection.jpg)
-Projection présent
+
+>Quelques échantillons du processus sur muraille.  
+
+![Projection](media/projection.jpg)
+
+> Projection d'un exemple du résultat de l'expérience.  
+
 | Catégorie       | Éléments / Détails |
 |-----------------|------------------|
 | **Composantes** | Image projecté, mur d’images, installation immersive (chaise/structure), casque RV, expérience immersive du spectateur |
-| **Techniques**  | Génération IA, projection , impression numérique, RV, installation multimédia, accumulation/collage visuel, dispositif interactif |
+| **Techniques**  | Génération par l'IA, projection , impression numérique, RV, installation multimédia, accumulation/collage visuel, dispositif interactif |
 | **Matériaux**   | Écrans, projecteurs, ordinateurs, casque VR et capteurs, câbles et haut-parleurs, modem, transducteur, mousse de rembourrage, structure en acier |
 
 **Logiciels utilisés :**  
