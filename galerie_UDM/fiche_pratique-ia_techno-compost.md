@@ -90,5 +90,5 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 - [Quelques échantillons du muraille](media/muraille_composant.jpg)
 - [Projection](media/projection.jpg)
 
-**Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de diaspositifs multimédias à Montmorency.**
+Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de diaspositifs multimédias à Montmorency.
 
