@@ -18,6 +18,7 @@ C’est dans un **espace latent**, comparable à un jardin, que les images « po
 
 ## Mise en espace
 ![ensemble de l'oeuvre](media/ensemble_oeuvre.jpg)
+
 | Emplacement | Contenu |
 |-------------|---------|
 | Mur gauche  | Projection d’exemples de résultats du processus |
@@ -27,6 +28,10 @@ C’est dans un **espace latent**, comparable à un jardin, que les images « po
 ---
 
 ## Composantes et techniques
+![Quelques échantillons du muraille](media/muraille_composant.jpg)
+Quelques échantillons du processus sur muraille
+[Projection](media/projection.jpg)
+Projection présent
 | Catégorie       | Éléments / Détails |
 |-----------------|------------------|
 | **Composantes** | Image projecté, mur d’images, installation immersive (chaise/structure), casque RV, expérience immersive du spectateur |
@@ -62,7 +67,7 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 - La chaise unique, qui s’intègre parfaitement au concept et à l’esthétique générale de l’œuvre.
 - La mise en évidence du processus menant aux résultats finaux, permettant de comprendre la démarche de création.
 
-**Aspects que je ne souhaite pas retenir / ferais autrement :**  
+**Aspect(s) que je ne souhaite pas retenir / ferais autrement :**  
 - Difficulté à manipuler certains éléments en réalité virtuelle, comme récupérer les images qui tombent.
 
 ---
@@ -82,4 +87,6 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 - [Ensemble de l'oeuvre](media/ensemble_oeuvre.jpg)
 - [Quelques échantillons du muraille](media/muraille_composant.jpg)
 - [Projection](media/projection.jpg)
+
+**Images prises par Mariam Elayyan.**
 
