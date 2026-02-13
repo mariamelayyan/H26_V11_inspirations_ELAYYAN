@@ -63,11 +63,13 @@ Unity, Blender, GIMP, Materialize, Reaper, Max MSP, Mosaïque, Flu Coma, …
 ---
 
 ## Références
-- [Biographie des artistes](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)  
+- [Biographie des artistes](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)<
+
 **Cartel**  
-- [![Description de l'oeuvre](images/cartel.jpg)](images/cartel.jpg)
-- [![Collaborateurs](images/cartel_collaborateur.jpg)](images/cartel_collaborateur.jpg)
-- [![Matériels](images/cartel_materiel.jpg)](images/cartel_materiel.jpg)
+- [![Description de l'oeuvre](media/cartel.jpg)](media/cartel.jpg)
+- [![Collaborateurs](media/cartel_collaborateur.jpg)](media/cartel_collaborateur.jpg)
+- [![Matériels](media/cartel_materiel.jpg)](media/cartel_materiel.jpg)
+
 **Composants de l'oeuvre**  
   
 
