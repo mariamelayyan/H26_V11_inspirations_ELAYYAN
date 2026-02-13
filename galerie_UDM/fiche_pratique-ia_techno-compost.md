@@ -1,45 +1,65 @@
-# Deveir partages, pratiques de l'IA
+# Devenir partages, pratiques de l'IA
 
-Lieu: la galerie de l'Universite de montreal 
-Type: Exposition temporaire interieure
-Date de visite: 29 janvier 2026
+**Lieu :** Galerie de l'Université de Montréal  
+**Type :** Exposition temporaire intérieure  
+**Date de visite :** 29 janvier 2026  
 
-## L'oeuvre techno-compost
-C'est une oeuvre qui a prit l'apparition en 2025 par l'artiste Marie-Eve Levasseur. 
-Des milliers de dechers numeriques sont produits par les images generees par les IA. C'est ou vient l'idee de Levasseur de recyler ces images pour en de nouveau en d'autres formes.
-De son nom comme un compost, les images numerique ne disparaissent pas reellement, mais se desintegre et se fragmentant , se transformant ainsi en bruit visuelle comme celle produit par les anciens televiseurs. Ensuite, ces bruit visuel aleatoires sont utilise p our reconstruire de nouvelles images. C'est dans l'espace latent ,comparatif a un jardin, ou les images poussent passant d' idees et de possibilites puis se melangeant et transformant pour enfin pouvoir assembler l'image finale. Cette pratique laisse a imagine un univers numérique moins plus lent, attentive et productif a la place de se base sur la surproduction numerique.
-type d'installation: contemplative et immsersive.
+## L'œuvre *Techno-Compost*  
+L'œuvre est une installation contemplative et immersive réalisée en 2025 par l'artiste Marie-Ève Levasseur.  
+Des milliers de déchets numériques sont produits par les images générées par les IA. C’est de cette idée que Levasseur part : **recycler ces images pour en créer de nouvelles sous d’autres formes**.  
+
+À l’instar d’un compost, les images numériques ne disparaissent pas réellement, mais se désintègrent et se fragmentent, se transformant en **bruit visuel**, semblable à celui produit par les anciens téléviseurs. Ces bruits visuels aléatoires sont ensuite utilisés pour reconstruire de nouvelles images.  
+
+C’est dans un **espace latent**, comparable à un jardin, que les images « poussent », passant d’idées et de possibilités, se mélangeant et se transformant jusqu’à former l’image finale. Cette pratique invite à imaginer un univers numérique **plus lent, attentif et productif**, contrairement à la surproduction numérique habituelle.  
 
 ## Mise en espace
-- Mur gauche: projection d'exemple de résultat du processus
-- Mur droite: d’images montre des échantillons du processus :on voit beaucoup d’images, certaines plus proches du bruit visuel,
-d’autres plus structurées et « réussies ».
-- Centre: experience interactive RV (interactivite avec les images)
+- **Mur gauche :** projection d’exemples de résultats du processus  
+- **Mur droit :** mosaïque d’images montrant des échantillons du processus ; certaines proches du bruit visuel, d’autres plus structurées et « réussies »  
+- **Centre :** expérience interactive en réalité virtuelle (interactivité avec les images)  
 
 ## Composantes et techniques
+- Génération IA  
+- Projection numérique  
+- Impressions numériques sur tissu  
+- Installation immersive (chaise / structure)  
+- Dispositif interactif (casque RV)  
+- Câbles et haut-parleurs  
+- Modem  
+- Ordinateur  
+- Transducteur  
+- Mousse de rembourrage  
+- Structure en acier  
 
-- Generation IA
-- Projection numérique
-- Impressions numeriques sur tissue.
-- Installation immersive (Chaise)
-- Dispositif interactif (casque RV)
-- Câbles intégrés à l’installation
+**Logiciels utilisés :**  
+- Unity  
+- Blender  
+- Materialize  
+- Reaper  
+- Max MSP  
+- Mosaïque  
+- Flu Coma  
+- …  
 
-Les logiciels utilises:
-- Unity
-- Blender
-- Materialize
-- Reaper
-- Max MSP
-- Mosaique
-- Flu Coma
-  ...
-  
-  ## Element necessaire a la mise en exposition
-  
-  - La salle d’exposition
-  - les murs blancs
-  - L'eclairage au plafond
-  - Les prises electriques
-  - Les cartel explicatif
-  - Le modem
+## Éléments nécessaires à la mise en exposition
+- Salle d’exposition  
+- Murs blancs  
+- Éclairage au plafond  
+- Prises électriques  
+- Cartels explicatifs  
+- Structure pour surélever le modem  
+
+## Expérience vécue
+1. Le médiateur de l’exposition présente et explique chaque élément de chaque œuvre  
+2. Le visiteur fait le tour des œuvres et prend des photos  
+3. Le visiteur expérimente les dispositifs immersifs proposés  
+
+## Réflexion
+**Ce qui m’a plu / idées inspirantes :**  
+- …  
+
+**Aspects que je ne souhaite pas retenir :**  
+- …  
+
+## Références
+- …
+
