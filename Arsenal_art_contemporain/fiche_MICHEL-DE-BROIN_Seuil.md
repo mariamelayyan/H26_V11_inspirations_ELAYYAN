@@ -7,7 +7,7 @@
 ---
 
 ## L'œuvre *Seuil*  
-L'œuvre est une installation contemplative et interactive réalisée en 2025 par l'artiste Michel de Broin.  
+L'œuvre est une installation contemplative et interactive réalisée en 2017 par l'artiste Michel de Broin.  
 à suivre...
 
 ---
