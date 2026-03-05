@@ -1,1 +1,1 @@
-# Exposition de Michel de Broin dans l'Arsenal art contemporain.
+# Exposition Seuil de Michel de Broin dans l'Arsenal art contemporain.
