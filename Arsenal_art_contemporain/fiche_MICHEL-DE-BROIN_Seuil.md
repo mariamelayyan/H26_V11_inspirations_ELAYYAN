@@ -15,7 +15,7 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ---
 
 ## Mise en espace
-![Mise en espace, croquis de la salle](Arsenal_art_contemporain/media/croquis_salle.jpg)
+![Mise en espace, croquis de la salle](media/croquis_salle.jpg)
 > 
 
 ---
