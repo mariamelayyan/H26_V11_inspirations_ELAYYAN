@@ -16,7 +16,7 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/croquis_salle.jpg)
-> 
+> Le croquis de la salle d'exposition de l'installation Seuil.
 
 ---
 
