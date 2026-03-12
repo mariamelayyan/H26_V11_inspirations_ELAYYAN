@@ -37,11 +37,10 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
-- 
-- Éclairage
-- Prises électriques
-- Cartels explicatifs
-- 
+- Câblage et protecteurs de câbles
+- Frein d’urgence pour l’arrêt rapide de l’installation
+- Panneau de consignes et sécurité
+- 2 Cartels explicatifs
 
 ---
 
@@ -66,12 +65,25 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - [Pour plus d'information sur Michel de broin et ses oeuvres](https://micheldebroin.org/fr/)
 
 **Cartel**  
-- [Cartel en francais](media/)
-- [Cartel en anglais](media/)
+- [Cartel en francais](media/cartel_francais.jpg)
+- [Cartel en anglais](media/cartel_anglais.jpg)
 
 **Composants de l'oeuvre**  
-- []()
-- []()
-- []()
+- [Boîtier électrique de contrôle](boitier_electrique_controle.jpg)
+- [Éclairage des portes](eclairage_porte.jpg)
+- [Mécanique d'ouverture des portes](mecanique_ouverture_porte.jpg)
+- [Rails supérieurs](rail_superieur.jpg)
+
+**Éléments nécessaires à la mise en exposition**  
+- [Frein d'urgence](frein_urgence_securite.jpg)
+- [Panneau de consignes de sécurité](panneau_consigne_sécurité.jpg)
+- [Protecteur de câbles](protecteur_cable.jpg)
+
+**Différentes vues de l'installation**
+- [Vue de la salle](vue_ensemble_piece.jpg)
+- [Vue frontale](vue_frontale.jpg)
+- [Vue arrière droite](vue_arriere_droite.jpg)
+- [Vue arrière gauche](vue_arriere_gauche.jpg)
+
 
 Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de diaspositifs multimédias à Montmorency.
