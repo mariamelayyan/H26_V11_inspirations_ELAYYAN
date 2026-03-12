@@ -17,6 +17,7 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/croquis_salle.jpg)
 > Le croquis de la salle d'exposition de l'installation Seuil.
+> Liens vers les images des différentes vues en bas de page
 
 ---
 
@@ -25,14 +26,14 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 > 
 
 ![]()
->   
+> 
 
-| Catégorie       | Éléments / Détails |
-|-----------------|--------------------|
-| **Composantes** | |
-| **Techniques**  | |
-| **Matériaux**   | |
-
+- 11 Portes de voitures de metro
+- Boîtier électrique de contrôle por chaque porte
+- Mécanismes d’ouverture des portes
+- Rails supérieurs et structures de support pour les portes
+- Éclairage en haut des portes
+- Composants interactifs liés aux détecteurs de mouvement
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
