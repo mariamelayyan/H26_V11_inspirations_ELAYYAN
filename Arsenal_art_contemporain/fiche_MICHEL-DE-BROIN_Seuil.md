@@ -9,10 +9,14 @@
 ---
 
 ## L'œuvre *Seuil*  
+
 L'œuvre est une installation contemplative et interactive réalisée en 2017 par l'artiste Michel de Broin.
 Elle est construite à partir d’anciennes portes de métro issues de l’Expo 67 et de détecteurs de mouvement. L’artiste y combine deux époques en recyclant ces portes du passé tout en les intégrant à la technologie moderne des détecteurs.
 
 Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînement des portes : en avançant pas à pas, il déclenche l’ouverture successive de chacune. Cette expérience évoque un lieu en constante évolution, où chaque geste entraîne un changement.
+
+![Vue frontale de l'oeuvre Seuil](media/vue_frontale.jpg)
+> Vue frontale de l'installation
 
 [Liens de l'expérience intéractive](media/experience_interactive.mp4)  
 
@@ -26,15 +30,12 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ---
 
 ## Composantes et techniques
-![]()
-> 
-
-![]()
-> 
+![Boitier électrique de contrôle et mécanismes d’ouverture des portes](media/boitier_electrique_controle.jpg)
+> Boitier électrique de contrôle et mécanisme d’ouverture des portes
 
 - 11 Portes de voitures de metro
 - Boîtier électrique de contrôle por chaque porte
-- Mécanismes d’ouverture des portes
+- Mécanisme d’ouverture des portes
 - Rails supérieurs et structures de support pour les portes
 - Éclairage en haut des portes
 - Composants interactifs liés aux détecteurs de mouvement
@@ -86,7 +87,6 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 **Différentes vues de l'installation**
 - [Vue de la salle](media/vue_ensemble_piece.jpg)
 - [Vue frontale](media/vue_frontale.jpg)
-- [Vue arrière droite](media/vue_arriere_droite.jpg)
 - [Vue arrière gauche](media/vue_arriere_gauche.jpg)
 
 
