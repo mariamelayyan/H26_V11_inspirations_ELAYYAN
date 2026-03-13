@@ -1,6 +1,6 @@
 # Exposition Seuil de Michel de Broin
 
-**Lieu :** Arsenal Art Contemporain
+**Lieu :** Arsenal Art Contemporain  
 **Type :** Exposition temporaire intérieure  
 **Date de visite :** 20 février 2026  
 
@@ -11,7 +11,7 @@
 ## L'œuvre *Seuil*  
 
 L'œuvre est une installation contemplative et interactive réalisée en 2017 par l'artiste Michel de Broin.
-Elle est construite à partir d’anciennes portes de métro issues de l’Expo 67 et de détecteurs de mouvement. L’artiste y combine deux époques en recyclant ces portes du passé tout en les intégrant à la technologie moderne des détecteurs.
+Elle est construite à partir d’anciennes portes de métro issues de l’Expo 67 et de détecteurs de mouvement. L’artiste y combine deux époques en recyclant ces portes du passé tout en les intégrant à la technologie moderne des détecteurs. Cette combinaison met bien en évidence le cycle de consommation.
 
 Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînement des portes : en avançant pas à pas, il déclenche l’ouverture successive de chacune. Cette expérience évoque un lieu en constante évolution, où chaque geste entraîne un changement.
 
