@@ -5,7 +5,7 @@
 **Date de visite :** 20 février 2026  
 
 ![Entrée de l'Arsenal](media/entree_arsenal.jpg)
-
+> L'entrée du lieu d'exposition
 ---
 
 ## L'œuvre *Seuil*  
@@ -24,7 +24,8 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/mise_en_espace_croquis.jpg)
-> Le croquis de la salle d'exposition de l'installation Seuil.  
+> Le croquis de la salle d'exposition de l'installation Seuil.
+> Dimentions de l'installation: 1500 x 300 x 230 cm 
 > Liens vers les images des différentes vues en bas de page
 
 ---
@@ -44,8 +45,8 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - Salle d’exposition
 - Câblage et protecteurs de câbles
 - Frein d’urgence pour l’arrêt rapide de l’installation
-- Panneau de consignes et sécurité
-- 2 Cartels explicatifs
+- Panneau de consignes de sécurité
+- 2 Cartels explicatifs (en anglais et en français)
 
 ![Panneau de consignes de sécurité](media/panneau_consigne_securite.jpg)
 > Panneau de consignes de sécurité
