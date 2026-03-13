@@ -18,15 +18,16 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ![Vue frontale de l'oeuvre Seuil](media/vue_frontale.jpg)
 > Vue frontale de l'installation
 
-[Liens de l'expérience intéractive](media/experience_interactive.mp4)  
+
 
 ---
 
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/mise_en_espace_croquis.jpg)
-> Le croquis de la salle d'exposition de l'installation Seuil.
-> Dimentions de l'installation: 1500 x 300 x 230 cm 
-> Liens vers les images des différentes vues en bas de page
+> Le croquis de la salle d'exposition de l'installation Seuil.  
+> Dimentions de l'installation: 1500 x 300 x 230 cm
+    
+> *Liens vers les images des différentes vues en bas de page*
 
 ---
 
