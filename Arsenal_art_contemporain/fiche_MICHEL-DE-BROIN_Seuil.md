@@ -18,7 +18,7 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ![Vue frontale de l'oeuvre Seuil](media/vue_frontale.jpg)
 > Vue frontale de l'installation
 
-
+[Site d'exposition - Liens de l'expérience interactive](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/seuils-micheldebroin)
 
 ---
 
@@ -58,7 +58,8 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 
 1. Explorer la pièce et prendre connaissance des consignes ainsi que du cartel de l’œuvre.
 2. Marcher le long de la rangée de portes, déclenchant leur ouverture l’une après l’autre.
-3. Réfléchir à l’expérience vécue et aux sensations ressenties.
+3. Prendre des photos et vidéo(s) de l'oeuvre.
+4. Réfléchir à l’expérience vécue et aux sensations ressenties.
 
 ---
 
@@ -100,4 +101,4 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - [Vue arrière gauche](media/vue_arriere_gauche.jpg)
 
 
-Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de diaspositifs multimédias à Montmorency.
+Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de dispositifs multimédias à Montmorency.
