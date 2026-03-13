@@ -30,15 +30,14 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ---
 
 ## Composantes et techniques
-![Boitier électrique de contrôle et mécanismes d’ouverture des portes](media/boitier_electrique_controle.jpg)
-> Boitier électrique de contrôle et mécanisme d’ouverture des portes
-
 - 11 Portes de voitures de metro
 - Boîtier électrique de contrôle por chaque porte
 - Mécanisme d’ouverture des portes
 - Rails supérieurs et structures de support pour les portes
 - Éclairage en haut des portes
 - Composants interactifs liés aux détecteurs de mouvement
+![Boitier électrique de contrôle et mécanismes d’ouverture des portes](media/boitier_electrique_controle.jpg)
+> Boitier électrique de contrôle et mécanisme d’ouverture des portes.
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
@@ -46,6 +45,8 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - Frein d’urgence pour l’arrêt rapide de l’installation
 - Panneau de consignes et sécurité
 - 2 Cartels explicatifs
+![Panneau de consignes de sécurité](media/panneau_consigne_securite.jpg)
+> Panneau de consignes de sécurité
 
 ---
 
