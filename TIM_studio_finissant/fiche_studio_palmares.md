@@ -7,7 +7,7 @@
 
 L'équipe de réalisation: Mégane Ranger, Dana Saavedra-Torrano, Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry.
 
-![Mise en espace croquis de l'installation Terminal](media/terminal_croquis_mise_en_espace.jpg)
+![Mise en espace croquis de l'installation Terminal](media/terminal_croquis_mise_en_espace.png)
 
 >Croquis de mise en espace. Schéma de l'installation prévue	schéma de mise en espace (plantation ou implantation)	télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier
 
@@ -50,7 +50,7 @@ L'équipe de réalisation: Matis Ghariani, Rafael Angon Dube, Mathieu Willett, A
 
 L'équipe de réalisation: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi.
 
-![Mise en espace croquis de l'installation Mission Décollage](media/mission_croquis_mise_en_espace.jpg)
+![Mise en espace croquis de l'installation Mission Décollage](media/mission_croquis_mise_en_espace.png)
 
 >Croquis de mise en espace.
 
