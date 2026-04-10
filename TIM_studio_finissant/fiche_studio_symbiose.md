@@ -27,6 +27,8 @@
 ---
 
 ## Composantes et techniques
+| Catégorie       | Éléments / Détails |
+|-----------------|--------------------|
 |  Audio  |  2 haut-parleurs actifs de 5", 2 fils XLR conducteurs de 15',  Carte de son multi-sorties + adaptateur powerCON  |
 |  Vidéo  |  2 projecteurs Epson PowerLite 990U,  1 câble HDMI  |
 |  Lumière  |  1 lumières LED RGBAW DMX (une par station),  1 fils XLR conducteurs de 20',  1 Interface DMX Via XLR,  LEDs i2c pour brûleur  |
