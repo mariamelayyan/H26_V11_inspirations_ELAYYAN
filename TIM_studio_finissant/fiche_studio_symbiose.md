@@ -4,7 +4,7 @@
 **Type :** Exposition temporaire intérieure  
 **Date de visite :** mardi mars 2026  
 
-![Entrée du studio](media/symbiose/entree_exposition.jpg)
+![Entrée du studio](media/entree_exposition.jpg)
 > L'entrée du lieu d'exposition, grand studio
 ---
 
