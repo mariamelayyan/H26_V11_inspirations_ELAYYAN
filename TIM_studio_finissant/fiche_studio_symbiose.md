@@ -42,20 +42,10 @@
 
 
 
-Logiciels Requis
-Environnement de programmation
-Visual Studio Code / PlatformIO / Arduino IDE (Programmation des capteurs: accéléromètre, knobs, joystick)
-Unity 3D (Scène globale, réception données)
-Design graphique / Effets visuels
-After Effects (Effets de particules pré-rendus au besoin)
-Photoshop (Textures pour le laboratoire 3D)
-Blender/Maya (Modélisation 3D)
-TouchDesigner (Arrière plan de la seconde projection)
-Gestion de l'éclairage
-QLC+ (Éclairage)
-Audio
-Reaper / FL Studio (Composition et design sonore)
-Synthétiseurs VST (Sons de laboratoire, événements)
+Logiciels Requis: 
+Environnement de programmation:  Visual Studio Code / PlatformIO / Arduino IDE (Programmation des capteurs: accéléromètre, knobs, joystick),  Unity 3D (Scène globale, réception données).  
+Design graphique / Effets visuels:  After Effects (Effets de particules pré-rendus au besoin),  Photoshop (Textures pour le laboratoire 3D),  Blender/Maya (Modélisation 3D),  TouchDesigner (Arrière plan de la seconde projection),  Gestion de l'éclairage,  QLC+ (Éclairage).  
+Audio:  Reaper / FL Studio (Composition et design sonore),  Synthétiseurs VST (Sons de laboratoire, événements).  
 
 ![](media/.jpg)
 > 
