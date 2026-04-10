@@ -27,12 +27,33 @@
 ---
 
 ## Composantes et techniques
-- 
-- 
-- 
-- 
-- 
-- 
+|  Audio  |  2 haut-parleurs actifs de 5", 2 fils XLR conducteurs de 15',  Carte de son multi-sorties + adaptateur powerCON  |
+|  Vidéo  |  2 projecteurs Epson PowerLite 990U,  1 câble HDMI  |
+|  Lumière  |  1 lumières LED RGBAW DMX (une par station),  1 fils XLR conducteurs de 20',  1 Interface DMX Via XLR,  LEDs i2c pour brûleur  |
+|  Électricité  |  4 extensions électriques  |
+|  Réseau  |  3 câbles ethernet,  1 transmetteurs et 1 récepteurs (pour projection)  |
+|  Ordinateurs  |  1 ordinateur portable (avec cable alimentation)  |
+|  Matériaux de fabrication  |  1 planche de plywood 2 par 4 1/4" ; Pour stations feu et poudres et tourbillon lors de maquette #2,  Visserie et quincaillerie,  Tissus bleu semi-transparent pour intérieur erlen meyer  |
+|  Capteurs et contrôleurs  |  3 M5Stack ATOM PIOE pour transmission de données ethernet,  2 M5Stack Pbhub pour grouper les units,  6 M5Stack Key Unit,  1 M5Stack Angle Unit,  1 M5Stack ATOMS3,  1 Joystick analogique X-Y, 1 Arduino Nano  |
+|  Objets physiques  |  1 Erlenmeyer 500ml,  1 Knob de 30mm avec shaft de 6mm (pour fixer sur angle unit),  3 Boutons style arcade 60mm (station poudres) (vert bleu blanc)  |
+
+
+
+
+Logiciels Requis
+Environnement de programmation
+Visual Studio Code / PlatformIO / Arduino IDE (Programmation des capteurs: accéléromètre, knobs, joystick)
+Unity 3D (Scène globale, réception données)
+Design graphique / Effets visuels
+After Effects (Effets de particules pré-rendus au besoin)
+Photoshop (Textures pour le laboratoire 3D)
+Blender/Maya (Modélisation 3D)
+TouchDesigner (Arrière plan de la seconde projection)
+Gestion de l'éclairage
+QLC+ (Éclairage)
+Audio
+Reaper / FL Studio (Composition et design sonore)
+Synthétiseurs VST (Sons de laboratoire, événements)
 
 ![](media/.jpg)
 > 
