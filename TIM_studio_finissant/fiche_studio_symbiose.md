@@ -4,7 +4,7 @@
 **Type :** Exposition temporaire intérieure  
 **Date de visite :** mardi mars 2026  
 
-![Entrée du studio](media/entree_exposition.jpg)
+![Entrée du studio](media/symbiose/entree_exposition.jpg)
 > L'entrée du lieu d'exposition, grand studio
 ---
 
@@ -12,13 +12,13 @@
 
   installation interactive réalisée en 2026 par .
   
-![Vue frontale de l'oeuvre](media/vue_frontale.jpg)
+![Vue frontale de l'oeuvre](media/symbiose/vue_frontale.jpg)
 > Vue frontale de l'installation
 
 ---
 
 ## Mise en espace
-![Mise en espace, croquis de la salle](media/mise_en_espace_croquis.jpg)
+![Mise en espace, croquis de la salle](media/symbiose/croquis_mise_en_espace.jpg)
 > Le croquis de la salle d'exposition de l'installation Seuil.  
 > Dimentions de l'installation: cm
     
