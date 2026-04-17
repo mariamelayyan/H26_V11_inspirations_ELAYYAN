@@ -7,10 +7,22 @@
 ![Entrée du studio](media/entree_exposition.jpg)
 > L'entrée du lieu d'exposition, grand studio
 ---
+Description
+Symbiose est une installation intéractive démontrant une potion chimique virtuelle où chaque station contrôle un ingrédient (eau, flamme, poudres, tourbillon). Les participants devront faire face à différents événements aléatoire qui perturberont l'équilibre de la potion. Leur but ultime est de faire en sorte que la potion reste stable le plus longtemps possible.
+
+Histoire
+Des chimistes essayent tant bien que mal de stabiliser une potion face à divers événements aléatoires. Lors du processus de stabilisation, les éléments deviennent instable et les joueurs doivent travailler ensemble pour stabiliser la potion le plus longtemps possible.
+
+Fonctionnalités
+Symbiose possède quatre stations physiques, avec un joueur par station. Chacune de ces personnes doivent faire une manipulation continue unique à leur station pour maintenir l'équilibre de la potion et la faire survivre à travers de multiples événements. Chaque station possède la capacité de contrer un certain type d'événement.
+
+
+
+
 
 ## *Symbiose*  
 
-  installation interactive réalisée en 2026 par .
+L’installation interactive a été réalisée en 2026 par Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour. C’est un jeu de collaboration qui se joue à quatre. Chaque joueur a une tâche et une station de contrôle différente (eau, flamme, poudres et tourbillon). Pour empêcher la potion d’exploser, les joueurs exécutent les manipulations indiquées à l’écran, propres à leur station, afin de la maintenir stable le plus longtemps possible. Au cours du jeu, divers événements surviennent. Chacun est associé à une station spécifique parmi les quatre et perturbe le flot de la potion, ce qui permet de proposer un défi équitable à chaque joueur.
   
 ![Vue frontale de l'oeuvre](media/symbiose/vue_frontale.jpg)
 > Vue frontale de l'installation
@@ -42,10 +54,12 @@
 
 
 
-Logiciels Requis: 
-Environnement de programmation:  Visual Studio Code / PlatformIO / Arduino IDE (Programmation des capteurs: accéléromètre, knobs, joystick),  Unity 3D (Scène globale, réception données).  
-Design graphique / Effets visuels:  After Effects (Effets de particules pré-rendus au besoin),  Photoshop (Textures pour le laboratoire 3D),  Blender/Maya (Modélisation 3D),  TouchDesigner (Arrière plan de la seconde projection),  Gestion de l'éclairage,  QLC+ (Éclairage).  
-Audio:  Reaper / FL Studio (Composition et design sonore),  Synthétiseurs VST (Sons de laboratoire, événements).  
+### Logiciels Requis:   
+**Environnement de programmation**:  Visual Studio Code / PlatformIO / Arduino IDE (Programmation des capteurs: accéléromètre, knobs, joystick),  Unity 3D (Scène globale, réception données).  
+  
+**Design graphique / Effets visuels**:  After Effects (Effets de particules pré-rendus au besoin),  Photoshop (Textures pour le laboratoire 3D),  Blender/Maya (Modélisation 3D),  TouchDesigner (Arrière plan de la seconde projection),  Gestion de l'éclairage,  QLC+ (Éclairage).   
+  
+**Audio**:  Reaper / FL Studio (Composition et design sonore),  Synthétiseurs VST (Sons de laboratoire, événements).   
 
 ![](media/.jpg)
 > 
