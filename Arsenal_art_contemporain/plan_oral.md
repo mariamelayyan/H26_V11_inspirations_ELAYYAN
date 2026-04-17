@@ -1,5 +1,6 @@
 *Introduction* :
 - [ ] Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)
+  
 - [ ] Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 
 *Développement* :
