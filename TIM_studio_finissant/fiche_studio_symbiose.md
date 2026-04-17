@@ -6,19 +6,8 @@
 
 ![Entrée du studio](media/entree_exposition.jpg)
 > L'entrée du lieu d'exposition, grand studio
+
 ---
-Description
-Symbiose est une installation intéractive démontrant une potion chimique virtuelle où chaque station contrôle un ingrédient (eau, flamme, poudres, tourbillon). Les participants devront faire face à différents événements aléatoire qui perturberont l'équilibre de la potion. Leur but ultime est de faire en sorte que la potion reste stable le plus longtemps possible.
-
-Histoire
-Des chimistes essayent tant bien que mal de stabiliser une potion face à divers événements aléatoires. Lors du processus de stabilisation, les éléments deviennent instable et les joueurs doivent travailler ensemble pour stabiliser la potion le plus longtemps possible.
-
-Fonctionnalités
-Symbiose possède quatre stations physiques, avec un joueur par station. Chacune de ces personnes doivent faire une manipulation continue unique à leur station pour maintenir l'équilibre de la potion et la faire survivre à travers de multiples événements. Chaque station possède la capacité de contrer un certain type d'événement.
-
-
-
-
 
 ## *Symbiose*  
 
@@ -65,10 +54,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 > 
 
 ## Éléments nécessaires à la mise en exposition
-- 
-- 
-- 
-- 
+- 4 projecteurs
 - Cartel explicatif
 
 ![](media/.jpg)
@@ -78,7 +64,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 
 ## Expérience vécue
 
-1. Explorer la pièce et prendre connaissance des consignes ainsi que du cartel de l’œuvre.
+1. Prendre connaissance de l'objective de jeu et les fonctions de chaque joueur.
 2. Marcher le long de la rangée de portes, déclenchant leur ouverture l’une après l’autre.
 3. Prendre des photos et vidéo(s) de l'oeuvre.
 4. Réfléchir à l’expérience vécue et aux sensations ressenties.
@@ -99,8 +85,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 ## Références
 
 **Hyperliens**  
-- [Site d'exposition et billetterie]()
-- [Pour plus d'information sur Michel de broin et ses oeuvres]()
+- [Pour plus d'information sur l'installation](https://les-chimistes.github.io/symbiose/#/)
 
 **Cartel**  
 - [Cartel](media/)
@@ -112,11 +97,6 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 - [](media/)
 
 **Éléments nécessaires à la mise en exposition**  
-- [](media/)
-- [](media/)
-- [](media/)
-
-**Différentes vues de l'installation**
 - [](media/)
 - [](media/)
 - [](media/)
