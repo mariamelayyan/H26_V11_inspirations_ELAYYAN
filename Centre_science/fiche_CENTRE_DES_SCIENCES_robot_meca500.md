@@ -1,6 +1,6 @@
 # Exposition Explore - La science en grand
 
-**Lieu :** Centre des sciences de montréal
+**Lieu :** Centre des sciences de montréal  
 **Type :** Exposition permanente intérieure  
 **Date de visite :** 1 avril 2026  
 
