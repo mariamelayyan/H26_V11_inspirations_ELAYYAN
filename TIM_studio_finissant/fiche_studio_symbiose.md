@@ -20,11 +20,8 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/symbiose/croquis_mise_en_espace.jpg)
-> Le croquis de la salle d'exposition de l'installation Seuil.  
-> Dimentions de l'installation: cm
-    
-> *Liens vers les images des différentes vues en bas de page*
-
+> Le croquis de la salle d'exposition de l'installation Seuil.
+  
 ---
 
 ## Composantes et techniques
@@ -64,21 +61,21 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 
 ## Expérience vécue
 
-1. Prendre connaissance de l'objective de jeu et les fonctions de chaque joueur.
-2. Marcher le long de la rangée de portes, déclenchant leur ouverture l’une après l’autre.
-3. Prendre des photos et vidéo(s) de l'oeuvre.
+1. Prendre connaissance de l'objective de jeu et la fonction de chaque joueur.
+2. Jouer en équipe et essayer de battre le record de temps.
+3. Prendre des photos et vidéo(s).
 4. Réfléchir à l’expérience vécue et aux sensations ressenties.
 
 ---
 
 ## Réflexion
 **Ce qui m’a plu / idées inspirantes :**  
-- 
-- 
-- 
+- Le concept du jeu est simple, mais trés bien exécuté.
+- J’ai aimé l’aspect collaboratif du jeu, où chaque joueur exerce une influence claire sur son déroulement.
 
 **Aspect(s) que je ne souhaite pas retenir / ferais autrement :**  
-- 
+- Certains rôles peuvent sembler moins engageants que d’autres.
+- On peut trouver la dépendance entre les joueurs frustrante si l’un d’eux fait des erreurs fréquentes.
 
 ---
 
