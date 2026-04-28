@@ -38,19 +38,20 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - Rails supérieurs et structures de support pour les portes
 - Éclairage en haut des portes
 - Composants interactifs liés aux détecteurs de mouvement
+- Panneau de consignes de sécurité
 
 ![Boitier électrique de contrôle et mécanismes d’ouverture des portes](media/boitier_electrique_controle.jpg)
 > Boitier électrique de contrôle et mécanisme d’ouverture des portes.
+
+![Panneau de consignes de sécurité](media/panneau_consigne_securite.jpg)
+> Panneau de consignes de sécurité
+
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
 - Câblage et protecteurs de câbles
 - Frein d’urgence pour l’arrêt rapide de l’installation
-- Panneau de consignes de sécurité
 - 2 Cartels explicatifs (en anglais et en français)
-
-![Panneau de consignes de sécurité](media/panneau_consigne_securite.jpg)
-> Panneau de consignes de sécurité
 
 ---
 
