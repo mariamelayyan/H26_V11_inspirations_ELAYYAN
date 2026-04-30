@@ -2,7 +2,7 @@
 
 **Lieu :** Grand studio au Collège Montmorency  
 **Type :** Exposition temporaire intérieure  
-**Date de la première visite :** mardi 24 février 2026
+**Date de la première visite :** mardi 24 février 2026  
 **Date d'exposition :** mardi 17 mars 2026
 
 ![Entrée du studio](media/entree_exposition.jpg)
