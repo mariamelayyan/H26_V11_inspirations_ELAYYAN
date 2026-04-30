@@ -89,17 +89,6 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 **Cartel**  
 - [Cartel](media/)
 
-**Composants de l'oeuvre**  
-- [](media/)
-- [](media/)
-- [](media/)
-- [](media/)
-
-**Éléments nécessaires à la mise en exposition**  
-- [](media/)
-- [](media/)
-- [](media/)
-
 
 Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de dispositifs multimédias à Montmorency.
 
