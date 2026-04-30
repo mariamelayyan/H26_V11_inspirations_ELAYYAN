@@ -52,6 +52,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 
 ## Éléments nécessaires à la mise en exposition
 - 4 projecteurs
+- Salle d'exposition
 - Cartel explicatif
 
 ![](media/.jpg)
@@ -63,7 +64,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 
 1. Prendre connaissance de l'objective de jeu et la fonction de chaque joueur.
 2. Jouer en équipe et essayer de battre le record de temps.
-3. Prendre des photos et vidéo(s).
+3. Prendre des photo(s) et vidéo(s).
 4. Réfléchir à l’expérience vécue et aux sensations ressenties.
 
 ---
