@@ -1,12 +1,8 @@
-# 
+# Compte-rendu de la conférence de Martin Boucher
 
-(Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté.
-
-Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conférence en partageant les grandes lignes du contenu présenté. Vous devrez ordonner votre propos pour que la construction soit logique et reprenne le fil de ce qui a été discuté.
-
-Le compte-rendu doit avoir un titre. Le propos doit être bien structuré (en paragraphes) avec une introduction qui présente l'intervenant et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le développement. Enfin, votre conclusion partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification (le pourquoi). Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu.
-
-Dans votre répertoire, il vous faudra créer un dossier musee_ingeniosite puis une fiche_rencontre_M_BOUCHER.md dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre. Vous devrez insérer une image d'un dispositif de votre choix, présenté lors de la conférence, et tiré du site web du Musée en identifiant bien la source (à la fois dans le nom du fichier-image chargé dans votre dossier ET dans la légende sous la photo dans la fiche).
-
-Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote ou un autre logiciel de correction avant de le remettre.)
-
+Martin Boucher, technicien multimédia au Musée de l’ingéniosité J. Armand Bombardier, a présenté son travail ainsi que la création et le fonctionnement de dispositifs multimédias dans l’exposition permanente du musée situé à Valcourt
+Au début, il a présenté les différentes tâches liées à son travail. Il a expliqué qu’il intervient en informatique (conversion de fichiers, programmation, production audiovisuelle), en électricité, en audio, en éclairage et en gestion de projet.
+Il a ensuite présenté des exemples de dispositifs. Il a fait le tour de ce qui était dans le garage de Bombardier, la mise en espace du lieu et le fonctionnement de certains éléments dans le magasin de pièces et autres. Il a accompagné sa présentation de croquis pour illustrer l’organisation technique, comme le placement des sons et des projections afin de créer une expérience plus immersive.
+Il a aussi présenté le bogie de métro. Comme cet élément attirait peu l’attention des visiteurs, un dispositif interactif a été ajouté. Celui-ci consiste en un jeu où l’utilisateur reproduit une mélodie associée au métro à l’aide de boutons produisant différents sons.
+Il a également présenté certains outils utilisés dans le domaine, comme Arduino et Raspberry Pi, ainsi que des logiciels tels que Blender, DaVinci Resolve, OBS Studio et Bitwig Studio.
+Cette conférence présentait les différents aspects du travail de technicien multimédia ainsi que plusieurs exemples de dispositifs utilisés dans le musée.
