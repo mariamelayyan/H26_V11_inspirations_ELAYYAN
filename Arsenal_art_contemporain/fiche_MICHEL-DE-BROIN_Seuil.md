@@ -43,15 +43,17 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 ![Boitier électrique de contrôle et mécanismes d’ouverture des portes](media/boitier_electrique_controle.jpg)
 > Boitier électrique de contrôle et mécanisme d’ouverture des portes.
 
-![Panneau de consignes de sécurité](media/panneau_consigne_securite.jpg)
-> Panneau de consignes de sécurité
-
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
+- Panneau de consignes de sécurité et son socle
+- Le plancher surélevé antidérapant et sa passerelle d'accès
 - Câblage et protecteurs de câbles
 - Frein d’urgence pour l’arrêt rapide de l’installation
 - 2 Cartels explicatifs (en anglais et en français)
+
+![Panneau de consignes de sécurité](media/panneau_consigne_securite.jpg)
+> Panneau de consignes de sécurité
 
 ---
 
@@ -69,6 +71,7 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - L’interactivité entre le spectateur et l’installation.
 - Combiner la technologie actuelle avec celle du passé afin de mieux faire passer le message derrière l’œuvre.
 - L’idée de créer un parcours où chaque mouvement du spectateur provoque un changement dans l’espace.
+- 
 
 **Aspect(s) que je ne souhaite pas retenir / ferais autrement :**  
 - J’explorerais peut-être davantage de types d’interactions ou de réactions différentes pour varier l’expérience du spectateur.
