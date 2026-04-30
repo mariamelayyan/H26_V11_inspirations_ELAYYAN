@@ -1,6 +1,6 @@
 ## Introduction
 
-Dans cette communication, je vais présenter l’installation *Seuil* réalisée par :contentReference[oaicite:0]{index=0}, que j’ai découverte lors de ma visite à :contentReference[oaicite:1]{index=1} le 20 février 2026.  
+Dans cette communication, je vais présenter l’installation *Seuil* réalisée par Michel de Broin, que j’ai découverte lors de ma visite à Arsenal Art Contemporain le 20 février 2026.  
 
 Je commencerai par décrire le lieu d’exposition, puis je présenterai l’œuvre en détail. Ensuite, je partagerai mon expérience personnelle, suivie d’une appréciation critique. Enfin, j’établirai des liens avec d’autres œuvres et dispositifs multimédias explorés durant la session.
 
@@ -10,7 +10,7 @@ Je commencerai par décrire le lieu d’exposition, puis je présenterai l’œu
 
 ### Présentation du lieu
 
- est un centre d’exposition dédié à l’art contemporain. Il accueille principalement des expositions temporaires mettant en valeur des artistes locaux et internationaux. Le lieu se distingue par ses vastes espaces industriels, adaptés à des installations de grande envergure, souvent immersives et interactives.
+Arsenal Art Contemporain est un centre d’exposition dédié à l’art contemporain. Il accueille principalement des expositions temporaires mettant en valeur des artistes locaux et internationaux. Le lieu se distingue par ses vastes espaces industriels, adaptés à des installations de grande envergure, souvent immersives et interactives.
 
 ---
 
@@ -71,7 +71,7 @@ J’ai aussi pris des photos et des vidéos, puis j’ai réfléchi à l’expé
 
 Comme dans l’œuvre *Techno-Comp*, on retrouve l’idée de recyclage pour créer quelque chose de nouveau.  
 
-Cependant, *Seuil* se distingue par sa simplicité et par l’utilisation d’éléments mécaniques, contrairement à d’autres œuvres plus technologiques.
+Cependant, *Seuil* se distingue par sa simplicité et par l’utilisation d’éléments mécaniques, contrairement aux autres œuvres plus technologiques.
 
 ---
 
