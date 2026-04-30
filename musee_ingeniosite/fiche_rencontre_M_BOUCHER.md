@@ -7,6 +7,7 @@ Il a aussi présenté le bogie de métro. Comme cet élément attirait peu l’a
 ![jeu pour le bogie de metro](media/jeu_bogie_metro.jpeg) 
 > Jeu où il faut reproduire la mélodie du métro à l’aide de boutons produisant différentes fréquences de sons.  
 > Image capturée par l’enseignante d’œuvres et dispositifs multimédias, Sylvie François.
+  
 Enfin, il a également présenté certains outils utilisés dans le domaine, comme Arduino et Raspberry Pi, ainsi que des logiciels tels que Blender, DaVinci Resolve, OBS Studio et Bitwig Studio.  
   
 Cette conférence était intéressante, surtout pour les exemples concrets de dispositifs et pour mieux comprendre le travail de technicien multimédia.
