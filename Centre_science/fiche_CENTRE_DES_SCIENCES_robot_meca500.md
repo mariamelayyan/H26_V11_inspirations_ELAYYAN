@@ -35,15 +35,19 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 - 2 microphones
 - une caméra
 
-![](media/)
-> 
+![camera](media/camera.jpg)
+> La camera detectant ce qui est illustré sur les blocs
+
+![Les blocs](media/blocs_instruction.jpg)
+> La camera detectant ce qui est illustré sur les blocs
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
 - Le socle d’exposition
 - Les vitres de protection autour du robot
 - La fiche informative
-- 
+- Instructions sur la table d'exposition et sur le sol pour inviter à faire dancer le robot
+  
 ![](media/)
 > 
 
