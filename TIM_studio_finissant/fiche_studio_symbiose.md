@@ -55,6 +55,9 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 - 4 projecteurs
 - Salle d'exposition
 - Cartel explicatif
+- 4 socles pour placer appareils de contrôle
+- 4 chaises
+- Un porte-manteau pour la veste de laboratoire
 
 ![](media/.jpg)
 > 
@@ -87,7 +90,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 - [Pour plus d'information sur l'installation](https://les-chimistes.github.io/symbiose/#/)
 
 **Cartel**  
-- [Cartel](media/)
+- [Cartel](media/symbiose/cartel.jpg)
 
 
 Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de dispositifs multimédias à Montmorency.
