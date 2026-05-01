@@ -51,18 +51,18 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
   
   <img src="media/symbiose/commande_manette.jpg" width="400">  <img src="media/symbiose/commande_bouttons.jpg" width="400"> 
   > Manette de commande de la station tourbillon et bouttons de commande de la station poudre.
-
+  
 ## Éléments nécessaires à la mise en exposition
 - 4 projecteurs
 - Salle d'exposition
 - Cartel explicatif
 - 4 socles pour placer appareils de contrôle
 - 4 chaises 
-- Un porte-manteau pour la veste de laboratoire    
-    
-  <img src="media/symbiose/projecteurs.jpg" width="400">    
-  > Manette de commande de la station tourbillon et bouttons de commande de la station poudre.
-     
+- Un porte-manteau pour la veste de laboratoire
+  
+  <img src="media/symbiose/projecteurs.jpg" width="500">  
+    > Projecteurs
+  
 ---
 
 ## Expérience vécue
