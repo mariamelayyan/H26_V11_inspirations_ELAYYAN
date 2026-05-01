@@ -22,7 +22,7 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/symbiose/croquis_mise_en_espace.jpg)
 > Le croquis de la salle d'exposition de l'installation.
-> La source de l'image : [Site d'exposition]()
+> La source de l'image : [Site d'exposition](https://les-chimistes.github.io/symbiose/#/technique/)
   
 ---
 
@@ -48,9 +48,9 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 **Design graphique / Effets visuels**:  After Effects (Effets de particules pré-rendus au besoin),  Photoshop (Textures pour le laboratoire 3D),  Blender/Maya (Modélisation 3D),  TouchDesigner (Arrière plan de la seconde projection),  Gestion de l'éclairage,  QLC+ (Éclairage).   
   
 **Audio**:  Reaper / FL Studio (Composition et design sonore),  Synthétiseurs VST (Sons de laboratoire, événements).   
-
-![](media/.jpg)
-> 
+  
+  <img src="media/symbiose/commande_manette.jpg" width="400">  <img src="media/symbiose/commande_bouttons.jpg" width="400"> 
+  > Manette de commande de la station tourbillon et bouttons de commande de la station poudre.
 
 ## Éléments nécessaires à la mise en exposition
 - 4 projecteurs
@@ -60,8 +60,8 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 - 4 chaises
 - Un porte-manteau pour la veste de laboratoire
 
-![](media/.jpg)
-> 
+<img src="media/symbiose/projecteurs.jpg" width="400">
+> Projecteurs
 
 ---
 
