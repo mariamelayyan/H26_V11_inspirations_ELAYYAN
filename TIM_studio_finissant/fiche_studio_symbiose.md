@@ -59,9 +59,9 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 - 4 socles pour placer appareils de contrôle
 - 4 chaises 
 - Un porte-manteau pour la veste de laboratoire
-                                   
-  <img src="media/symbiose/projecteurs.jpg" width="500">  
-  >Projecteurs
+  
+ <img src="media/symbiose/projecteurs.jpg" width="500">
+>Projecteurs
                                 
 ---
 
