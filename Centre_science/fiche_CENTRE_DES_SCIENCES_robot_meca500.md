@@ -30,15 +30,20 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 ---
 
 ## Composantes et techniques
-- 
+- Le robot
+- 8 blocs d'instructions
+- 2 microphones
+- une caméra
 
 ![](media/)
 > 
 
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
+- Le socle d’exposition
+- Les vitres de protection autour du robot
+- La fiche informative
 - 
-
 ![](media/)
 > 
 
