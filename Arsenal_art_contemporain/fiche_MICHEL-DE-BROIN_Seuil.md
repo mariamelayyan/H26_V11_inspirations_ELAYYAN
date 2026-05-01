@@ -71,7 +71,7 @@ Le spectateur s’immerge dans l’œuvre et se laisse guider par l’enchaînem
 - L’interactivité entre le spectateur et l’installation.
 - Combiner la technologie actuelle avec celle du passé afin de mieux faire passer le message derrière l’œuvre.
 - L’idée de créer un parcours où chaque mouvement du spectateur provoque un changement dans l’espace.
-- 
+- Le bruit répétitif des portes qui s’ouvrent rappelle un environnement urbain familier et la routine quotidienne
 
 **Aspect(s) que je ne souhaite pas retenir / ferais autrement :**  
 - J’explorerais peut-être davantage de types d’interactions ou de réactions différentes pour varier l’expérience du spectateur.
