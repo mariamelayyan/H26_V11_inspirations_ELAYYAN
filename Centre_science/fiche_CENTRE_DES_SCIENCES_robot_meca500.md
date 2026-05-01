@@ -4,8 +4,9 @@
 **Type :** Exposition permanente intérieure  
 **Date de visite :** 1 avril 2026  
 
-![](media/)
+![L'entrée de Centre des sciences](media/entree_centre_des_sciences.jpg)
 > L'entrée du lieu d'exposition
+> Source de l'image : [source de l'image de l'entrée de Centre des sciences](https://monde.ccdmd.qc.ca/ressource/?id=30173&demande=desc)
 ---
 
 ## L'installation d'un robot meca 500  
