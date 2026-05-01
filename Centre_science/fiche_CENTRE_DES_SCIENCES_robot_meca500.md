@@ -18,8 +18,6 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 ![Vue ensemble de l'installation](media/vue_ensemble.jpg)
 > Vue d'ensemble de l'installation
 
-[]()
-
 ---
 
 ## Mise en espace
@@ -36,11 +34,13 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 - une caméra
 
 ![camera](media/camera.jpg)
-> La camera detectant ce qui est illustré sur les blocs
+> La camera detectant ce qui est illustré sur les blocs  
 
+    
 ![Les blocs](media/blocs_instruction.jpg)
-> La camera detectant ce qui est illustré sur les blocs
+> Les blocs d'instructions  
 
+    
 ## Éléments nécessaires à la mise en exposition
 - Salle d’exposition
 - Le socle d’exposition
@@ -48,8 +48,8 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 - La fiche informative
 - Instructions sur la table d'exposition et sur le sol pour inviter à faire dancer le robot
   
-![](media/)
-> 
+![La fiche informative sur le meca500](media/fiche_informative.jpg)
+> La fiche informative sur le meca500
 
 ---
 
