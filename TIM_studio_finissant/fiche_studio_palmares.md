@@ -84,8 +84,8 @@ Personnellement, je n’ai pas trouvé l’installation très engageante, car el
 2. Interactivité ludique, car elle aide à concevoir des systèmes interactifs où l’utilisateur peut agir et observer des réactions en temps réel, souvent sous forme de jeu, ce qui correspond à plusieurs des installations présentées.
 3. Réalité mixte, car il permet de créer des environnements immersifs en combinant des éléments réels et virtuels de manière interactive comme dans l'installation quand les yeux se croisent.
 
-## Une composante que je ne connaissais pas
+## Une composante ou technique que je ne connaissais pas
 ### TouchDesigner
   
-![]()  
+![Page Touch Designer](media/touch_designer.png)  
 La société canadienne Derivative a développé ce logiciel de création de contenu multimédia interactif. Fondé sur des nœuds, il utilise un langage de programmation visuel permettant de manipuler des objets 2D et 3D en temps réel. TouchDesigner est très connu pour être utilisé dans la création de performances, d’installations et d’œuvres multimédias.
