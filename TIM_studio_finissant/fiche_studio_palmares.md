@@ -74,4 +74,10 @@ L'équipe de réalisation: Manel Yaya, Patricia Nassif, Edelwyn Ledru, Félix La
 ### Réflexion
 Personnellement, je n'est pas trouvé l'installation intéressante,car ce n'était pas quelque chose que te passe beaucoup de temps à expérimenter.  
 
-## 
+## Cours incontournables pour réaliser ces projets
+1. kjl
+2. f
+3. d
+
+## Une composante que je ne connaissais pas
+![]()
