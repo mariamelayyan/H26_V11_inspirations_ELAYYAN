@@ -77,17 +77,6 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 
 **Hyperliens**  
 - [Site d'exposition et billetterie](https://www.centredessciencesdemontreal.com/exposition-permanente/explore)
-- []()
-
-**Composants de l'oeuvre**  
-- [](media/.jpg)
-- [](media/.jpg)
-- [](media/)
-- [](media/)
-
-**Éléments nécessaires à la mise en exposition**  
-- [](media/)
-- [](media/)
-- [](media/)
+- [Fiche informative sur le Meca500](fiche_informative.jpg)
 
 Texte écris et images prises par Mariam Elayyan dans le cadre du cour d'oeuvres et de dispositifs multimédias à Montmorency.
