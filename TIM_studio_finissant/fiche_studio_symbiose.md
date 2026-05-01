@@ -21,7 +21,8 @@ L’installation interactive a été réalisée en 2026 par Yannick Chamberland,
 
 ## Mise en espace
 ![Mise en espace, croquis de la salle](media/symbiose/croquis_mise_en_espace.jpg)
-> Le croquis de la salle d'exposition de l'installation Seuil.
+> Le croquis de la salle d'exposition de l'installation.
+> La source de l'image : [Site d'exposition]()
   
 ---
 
