@@ -76,5 +76,6 @@ Cependant, *Seuil* se distingue par sa simplicité et par l’utilisation d’é
 ---
 
 ## Conclusion
-
+Dans cette communication, j’ai présenté l’installation Seuil de Michel de Broin. J’ai d’abord décrit le lieu d’exposition, puis l’œuvre et ses composantes. J’ai ensuite partagé mon expérience personnelle ainsi que mon appréciation critique. Enfin, j’ai établi des liens avec d’autres œuvres et dispositifs multimédias vus durant la session.
+Je trouve inspirant de voir les différents moyens utilisés par les installations pour atteindre leurs objectifs. Certaines peuvent s’inspirer d’outils comme l’intelligence artificielle pour créer des expériences plus créatives et personnalisées, alors que d’autres visent plutôt à rendre l’apprentissage plus interactif et plus amusant pour les jeunes.
 
