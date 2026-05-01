@@ -24,8 +24,8 @@ Le système est composé de blocs illustrant chacun une action que l’on souhai
 
 ## Mise en espace
 
-![Mise en espace, croquis de la salle](media/mise_en_espace_croquis.jpg)
-> Le croquis de la salle d'exposition
+![Mise en espace, croquis de la salle](media/robot_croquis_mise_en_espace.jpg)
+> Le croquis d'une partie de la salle d'exposition
 
 ---
 
