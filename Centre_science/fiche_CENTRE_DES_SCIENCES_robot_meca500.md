@@ -9,9 +9,11 @@
 > Source de l'image : [source de l'image de l'entrée de Centre des sciences](https://monde.ccdmd.qc.ca/ressource/?id=30173&demande=desc)
 ---
 
-## L'installation d'un robot meca 500  
+## L'installation d'un robot meca500  
 
- installation interactive réalisée en  par .
+L’installation est une reproduction du robot industriel Meca500, inventé par une entreprise québécoise nommée Mecademic. Ce robot exécute avec précision les tâches qu’on lui demande.
+
+Le système est composé de blocs illustrant chacun une action que l’on souhaite voir le robot réaliser, comme danser, faire un clin d’œil, et d’autres actions. À l’aide d’une caméra, le robot peut détecter les blocs placés devant lui, les reconnaître, puis exécuter les actions correspondantes après avoir appuyé sur un bouton situé à côté des blocs.
 
 ![Vue ensemble de l'installation](media/vue_ensemble.jpg)
 > Vue d'ensemble de l'installation
@@ -23,7 +25,7 @@
 ## Mise en espace
 
 ![Mise en espace, croquis de la salle](media/mise_en_espace_croquis.jpg)
-> Le croquis de la salle d'exposition de l'installation Seuil.
+> Le croquis de la salle d'exposition
 
 ---
 
