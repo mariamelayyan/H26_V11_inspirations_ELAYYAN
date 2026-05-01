@@ -10,6 +10,7 @@ L'équipe de réalisation: Mégane Ranger, Dana Saavedra-Torrano, Émeryk Bélis
 ![Mise en espace croquis de l'installation Terminal](media/terminal_croquis_mise_en_espace.png)
 
 >Croquis de mise en espace. Schéma de l'installation prévue	schéma de mise en espace (plantation ou implantation)	télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier
+>[Source de l'image](https://pythons-5.github.io/Terminal/#/technique/)
 
 ### Réflexion
 C’était amusant de jouer en groupe, car tout le monde participait ensemble. Par contre, on perdait parfois à cause d’une seule personne, ce qui pouvait être frustrant.
@@ -25,6 +26,7 @@ L'équipe de réalisation: Kristy Moussally,Amira Tounekti.
 ![Mise en espace croquis de l'installation Ocean_rouge](media/ocean_croquis_mise_en_espace.jpg)
 
 >Croquis de mise en espace.
+>[Source de l'image](https://deux-intelligence.github.io/deux-neurones/#/technique/)
 
 ### Réflexion
 J’ai aimé le style arcade et l’idée du jeu. Par contre, après un certain temps, ça devient répétitif et un peu ennuyant.
@@ -40,6 +42,7 @@ L'équipe de réalisation: Matis Ghariani, Rafael Angon Dube, Mathieu Willett, A
 ![Mise en espace croquis de l'installation Arbre en face](media/arbre_croquis_mise_en_espace.jpg)
 
 >Croquis de mise en espace.
+>[Source de l'image](https://mammouths.github.io/projet/#/technique/)
 
 ### Réflexion
 Je trouve intéressant la façon dont la caméra détecte avec précision notre visage dès notre arrivée dans la salle et l’intègre dans une fleur, même lorsque nous sommes en mouvement et sans que nous réalisions que nous sommes filmés.  
@@ -55,6 +58,7 @@ L'équipe de réalisation: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, 
 ![Mise en espace croquis de l'installation Mission Décollage](media/mission_croquis_mise_en_espace.png)
 
 >Croquis de mise en espace.
+>[Source de l'image](https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/)
 
 ### Réflexion
 J’ai trouvé l’installation un peu frustrante, car c’était difficile de comprendre quoi faire et à quoi servaient les actions. 
@@ -70,6 +74,7 @@ L'équipe de réalisation: Manel Yaya, Patricia Nassif, Edelwyn Ledru, Félix La
 ![Mise en espace croquis de l'installation Quand les yeux se croisent](media/yeux_croquis_mise_en_espace.jpg)
 
 >Croquis de mise en espace.
+>[Source de l'image](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/)
 
 ### Réflexion
 Personnellement, je n’ai pas trouvé l’installation très engageante, car elle ne donnait pas envie d’y passer beaucoup de temps.
