@@ -1,4 +1,4 @@
-
+# Projets Finissants
 ## 1-Terminal
 
 ![Image de L'ensemble de l'installation Terminal](media/terminal_vue_ensemble.jpg)  
@@ -85,4 +85,7 @@ Personnellement, je n’ai pas trouvé l’installation très engageante, car el
 3. Réalité mixte, car il permet de créer des environnements immersifs en combinant des éléments réels et virtuels de manière interactive comme dans l'installation quand les yeux se croisent.
 
 ## Une composante que je ne connaissais pas
-![]()
+### TouchDesigner
+  
+![]()  
+La société canadienne Derivative a développé ce logiciel de création de contenu multimédia interactif. Fondé sur des nœuds, il utilise un langage de programmation visuel permettant de manipuler des objets 2D et 3D en temps réel. TouchDesigner est très connu pour être utilisé dans la création de performances, d’installations et d’œuvres multimédias.
