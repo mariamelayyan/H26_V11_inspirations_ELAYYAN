@@ -88,4 +88,9 @@ Personnellement, je n’ai pas trouvé l’installation très engageante, car el
 ### TouchDesigner
   
 ![Page Touch Designer](media/touch_designer.png)  
+>Page du logiciel Touch Designer  
+>[Source de l'image](https://videomappingcenter.com/formation-video-mapping-mai-2021/)
+  
 La société canadienne Derivative a développé ce logiciel de création de contenu multimédia interactif. Fondé sur des nœuds, il utilise un langage de programmation visuel permettant de manipuler des objets 2D et 3D en temps réel. TouchDesigner est très connu pour être utilisé dans la création de performances, d’installations et d’œuvres multimédias.
+
+Le reste des images sont capturées par Moi, Mariam Elayyan.
